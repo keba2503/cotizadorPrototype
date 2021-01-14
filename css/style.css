@@ -1,0 +1,34 @@
+.center {
+    text-align: center;
+    color: white;
+    padding: 4rem;
+    margin-top: 5rem;
+}
+
+.centerResultado {
+    text-align: center;
+    color: white;
+    padding: 4rem;
+    margin-top: 15rem;
+    background-color:#031629;   
+    opacity: 0.91;
+    
+}
+
+p {
+    text-align:justify;
+    padding: 1rem;
+    border-color: #730C02;
+    border-style: double;
+}
+
+.centerform {
+    text-align: center;
+    color: white;
+    padding: 1rem;
+    
+}
+
+.centerSelect {
+    margin-left: 2rem;
+}
