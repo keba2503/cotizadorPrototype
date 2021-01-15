@@ -32,3 +32,11 @@ p {
 .centerSelect {
     margin-left: 2rem;
 }
+
+.container2 {
+    margin-top: 3rem;
+    margin-inline: 2rem;    
+    border-style: double;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 10px rgb(18, 17, 17);
+}
