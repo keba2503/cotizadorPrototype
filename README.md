@@ -1,2 +1,1 @@
-"# cotizadorPrototype" 
-Prueba de otro equipo
+Cotizador de Seguros Basico, con JS utilizando Prototypes
